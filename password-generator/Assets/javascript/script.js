@@ -9,6 +9,7 @@ function generate() {
       values.charAt(Math.floor(Math.random() * Math.floor(values.length - 1)));
   }
   document.getElementById("display").value = password;
+  document.getElementById("last_passwords").innerHTML += password + "<br/>";
 }
 document.getElementById("length").innerHTML = "Length:8-128";
 document.getElementById("slider").oninput = function() {
