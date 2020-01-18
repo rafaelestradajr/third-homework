@@ -1,0 +1,55 @@
+.button {
+  
+    background-color:red;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: left;
+    text-decoration: none;
+    display:inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    border-radius: 20%;
+    -webkit-border-radius: 20%;
+    -moz-border-radius: 20%;
+    -ms-border-radius: 20%;
+    -o-border-radius: 20%;
+    
+    
+}
+.button2{
+   
+
+    background-color:lightgray;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    border-radius: 20%;
+    -webkit-border-radius: 20%;
+    -moz-border-radius: 20%;
+    -ms-border-radius: 20%;
+    -o-border-radius: 20%;
+}
+#length{
+    margin-right: 130px;
+}
+  h1{
+      padding-bottom: 60px;
+      text-align: center;
+   
+  }
+ div.card-body{
+      border:dotted
+  }
+  .content{
+      text-align: center;
+
+  }
+  h5{
+      text-align: center;
+  }
